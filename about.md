@@ -6,6 +6,8 @@ permalink: /about/
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
